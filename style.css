@@ -1,6 +1,6 @@
 body{
     background:white;
-    color:white;
+    color:black;
     font-family: 'Archivo Black', sans-serif;
     margin: 0;
     padding: 0;
@@ -100,7 +100,7 @@ h3{
 /*FLEXBOX*/
 .container-1{
       display:flex;
-      align-items:left;
+    
      flex-direction:column;
       
     }
@@ -159,7 +159,7 @@ footer{
     }
 
     section {
-        height: 300;
+        height: 300px;
     }
     footer{
         padding: 7px ;
